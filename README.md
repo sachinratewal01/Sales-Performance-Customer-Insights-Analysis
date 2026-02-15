@@ -49,3 +49,10 @@ SuperStore Orders Dataset including:
 ---
 
 ## 📁 Project Structure
+Sales-Performance-Analysis/
+│
+├── python.ipynb
+├── SuperStoreOrders.csv
+├── README.md
+
+---
